@@ -1,0 +1,283 @@
+@charset "utf-8";
+html, body {
+    height: 100% !important;
+}
+.first
+{
+	height : 15vw !important;
+	width:  100% !important;
+
+	float:left !important;
+
+	 display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+	}
+.second
+{    
+
+	}
+.third
+{
+
+
+	width:100% !important;
+	height: 100% !important;
+
+	}	
+.fourth
+{
+	
+ display:table !important;
+ margin:auto !important;
+
+	}
+.sixth
+{
+
+	
+	}
+	.seventh{
+      margin:auto !important;
+      height:100px !important;
+	  width:100px !important;
+	  opacity: 0.6 !important;		
+		}
+		.seventh-after
+		{
+			margin:auto !important;
+      height:100px !important;
+	  width:100px !important;
+	  opacity: 1.0 !important;		
+			
+			}
+ .eigth
+ {
+	font:Arial, sans-serif !important;
+	color:white !important;
+         
+
+	 }	
+	 .ninth
+	 {
+
+        height:400px !important;
+		width:400px !important;
+
+		  display:inline-block !important;
+
+        margin-left:auto !important;
+		margin-right:auto !important;
+		  vertical-align:middle !important
+
+		 }	
+		 .tength
+		 {
+		  display:inline-block !important;
+		  height:100% !important;
+		  margin:auto !important;
+		  vertical-align:middle	!important 
+		 }
+		 .elevnth
+		 {
+			 width:100% !important;
+			 height:calc((30vw -  400px)/2) !important;
+
+  			 
+		  }
+		  .twelth
+		  {
+	width: 100% !important;
+	height: 5vh !important;
+
+	text-align: end !important;
+	vertical-align: bottom !important;
+		   }
+		   .thirteenth
+		   {
+	font-family: open sans bold !important;
+	font-size: 27pt !important;
+	color: white !important;
+	text-align: left !important;
+	bottom: 0 !important;
+	margin-top: 3vh  !important;
+	line-height: 1.4286 !important;
+			   }
+			   .fourteenth
+			   {
+				   float:right !important;
+				   width:126px !important;
+				   height:50px !important;
+				}
+				.fifteenth
+				{
+				 height:1vh !important;
+
+				 width:100% !important;	
+					}	
+				.sixteenth
+				{
+			     height:calc(30vw - ( ((30vw -  400px)/2)+ 1vh + 5vh)) !important;
+
+				 width:100% !important;
+
+				font: Courier New !important;
+				text-align: justify !important;
+				top:0 !important;
+							
+			}
+			.eighteenth
+			{
+				height:100% !important;
+				width:100% !important;
+				}
+				.twenty
+				{
+				   font:open sans !important;
+				   font-size:12pt !important;
+				   color:white !important;
+
+					}
+					.twentyone
+					{
+				   font:open sans !important;
+				   font-size:20px !important;
+				   color:white !important;
+				   	}
+					.twentytwo
+					{
+					 width:20vw !important;	
+						
+					}
+					.twentythree
+					{ 
+					 float:left !important;
+                     margin-top:0px !important;   
+						
+					}
+					.twentyfour
+					{
+					width:100% !important;	
+						}
+					 .twentyfive
+					{
+	font-family: "open sans";
+
+
+	font-size: 20pt !important ;
+	height: "25pt";
+	font-size: 20px;
+
+					}
+					.twentysix
+					{
+					font-family:open sans ;	
+					font-size:12pt ;
+					height:12pt ;
+					margin-left:0 ;
+					left:0 ; 
+					
+					
+					}
+					.twentyseven
+					{
+					font-family:open sans ;	
+					font-size:12pt ;
+					height:12pt ;
+					margin-left:0 ;
+					left:0 ; 
+
+					
+					
+					}
+						
+					.eon-back-color-1
+					{
+	background-color: rgba(17,43,66,1.00) !important;
+						}
+						
+					.eon-back-color-2
+						{
+   	background-color: rgb(5,24,43) !important ;		
+							}
+							.eon-back-color-3
+						{
+/*   	background-color: linear-gradient(rgb(3,20,36) , rgb(3,12,22)) ;*/
+background-color: rgb(3,12,22)  !important;
+						}
+							.eon-back-color-4
+						{
+	background-color: rgb(189,191,55) !important ;
+	font-size: 21px !important;
+	color: white !important;
+	font-family: open sans !important;
+	margin: auto !important;
+						}
+						.eon-caption
+						{
+							font-size:12pt !important;
+						color:white !important;
+						font-family: open sans !important;
+					   }
+    .circular {
+	width: 120px !important;
+	height: 120px !important;
+	border-radius: 120px !important;
+	-webkit-border-radius: 120px !important;
+	-moz-border-radius: 120px !important;
+	background: url(../img/namhai.jpg) no-repeat !important;
+	margin-left:20px !important;
+	margin-top:20px !important;
+
+	}
+	.circular2 {
+	width: 30px !important;
+	height: 30px !important;
+	border-radius: 30px !important;
+	-webkit-border-radius: 30px !important;
+	-moz-border-radius: 30px !important;
+    background-color:rgb(1,177,175) !important;
+	margin-left:0% !important;
+
+
+	}
+	.eon-button-1
+	{
+		float:left !important;
+				   width:135px !important;
+				   height:50px !important;
+				   margin-left:10px !important;
+				   margin-top:25px !important;
+		
+		}
+		.eon-color-5
+		{
+			background-color:white !important;
+			}
+			.eon-pos-1
+			{
+
+				float:left !important;
+				color:white !important;
+				}
+			.eon-pos-2
+			{
+				color:white !important;
+				margin-left:30px !important;
+				margin-top:5px !important;
+				}
+			.eon-pos-3
+			{
+				color:white !important;
+                float:inherit !important;
+				margin-left:5px !important;
+				margin-top:5px !important;
+				}
+			.eon-pos-4
+			{
+				height:30px !important;
+				
+				}
+				
+					
+					

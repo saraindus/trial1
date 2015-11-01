@@ -1,0 +1,145 @@
+<h1><img src="img/image001.png"</h1>
+
+<h4>My Footer</h4>
+
+
+<section class="ui-grid-a">
+	    <!--  Row 1 -->
+	    <div class="ui-block-a">Column 1</div>
+		<div class="ui-block-b">Coulmn 2</div>
+		 
+	</section>
+
+	<section class="ui-grid-b">
+	    <!--  Row 1 -->
+	    <div  class="ui-block-a">Cell   1.1</div>
+		<div class="ui-block-b">Cell    1.2</div>
+		<!--  Row 2 -->
+		<div class="ui-block-a">Cell    2.1</div>
+		<div class="ui-block-b">Cell    2.2</div> 
+	</section>
+    
+	
+	 <p>Hello world</p>
+			<ul data-role="listview" data-inset="true" data-filter="true">
+	<li><a href="#">Acura</a></li>
+	<li><a href="#">Audi</a></li>
+	<li><a href="#">BMW</a></li>
+	<li><a href="#">Cadillac</a></li>
+	<li><a href="#">Ferrari</a></li>
+	</ul>
+	<div data-role="collapsible">
+	  <h2>History of Rome</h2>
+	  <p> There is archaeological oijofoefoefhewhfhwefohwefwefweweffefwefq	fqf</p>
+	
+	</div>
+	<section class="ui-grid-a">
+	    <!--  Row 1 -->	<div data-role="collapsible">
+	  <h2>History of Rome</h2>
+	  <p> There is archaeological oijofoefoefhewhfhwefohwefwefweweffefwefq	fqf</p>
+	
+	</div>
+	<section class="ui-grid-a">
+	    <!--  Row 1 -->
+	    <div class="ui-block-a">Column 1</div>
+		<div class="ui-block-b">Coulmn 2</div>
+		 
+	</section>
+
+	<section class="ui-grid-b">
+	    <!--  Row 1 -->
+	    <div  class="ui-block-a">Cell   1.1</div>
+		<div class="ui-block-b">Cell    1.2</div>
+		<!--  Row 2 -->
+		<div class="ui-block-a">Cell    2.1</div>
+		<div class="ui-block-b">Cell    2.2</div> 
+	</section>
+
+	    <div class="ui-block-a">Column 1</div>
+		<div class="ui-block-b">Coulmn 2</div>
+		 
+	</section>
+
+	<section class="ui-grid-b">
+	    <!--  Row 1 -->
+	    <div  class="ui-block-a">Cell   1.1</div>
+		<div class="ui-block-b">Cell    1.2</div>
+		<!--  Row 2 -->
+		<div class="ui-block-a">Cell    2.1</div>
+		<div class="ui-block-b">Cell    2.2</div> 
+	</secti
+	
+	<ul data-role="listview" data-inset="true" data-filter="true">
+	<li><a href="#">Acura</a></li>
+	<li><a href="#">Audi</a></li>
+	<li><a href="#">BMW</a></li>
+	<li><a href="#">Cadillac</a></li>
+	<li><a href="#">Ferrari</a></li>
+	</ul>
+	
+	
+	 <div data-role="navbar">
+            <ul>
+               <li><a  href="link1">Option 1 </a>
+			   <!-- ... -->
+			   <li><a href="link1">Option 2 </a>
+            </ul>
+			
+			
+			
+			
+			 <div data-role="page" data-add-back-btn="true" data-back-btn-text="Previous"
+	     data-back-btn-theme="e" data-fullscreen="true"> >
+ 
+        <div data-role="header" data-position="fixed">
+		 <p>Hello body world</p>		   
+        </div><!-- /header -->
+ 
+        <div data-role="content"  >
+            <p>Hello world</p>
+			
+
+        </div><!-- /content -->
+ 
+        <div data-role="footer">
+            <p>Hello my world</p
+		 			
+        </div><!-- /footer -->
+ 
+    </div><!-- /page -->
+	
+	
+	
+	
+	data-add-back-btn="true" data-back-btn-text="Previous"
+	     data-back-btn-theme="e"
+		 
+		 
+		 
+		 
+		 
+		 <style type="text/css">
+#background{ 
+position: fixed; 
+top: 0; 
+left: 0; 
+width: 100% !important; 
+height: 100% !important; 
+background: url(img/image030.png) no-repeat center center fixed !important; 
+-webkit-background-size: cover; 
+-moz-background-size: cover; 
+-o-background-size: cover; 
+background-size: cover; 
+z-index: -1; 
+} 
+.ui-page{ 
+background:none; 
+}
+</style>  
+
+
+
+
+<div data-role="panel" id="bars">
+    <!-- panel content goes here -->
+        </div><!-- /panel -->
